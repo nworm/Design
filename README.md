@@ -8,11 +8,12 @@ The idea / thought is to provide a light weight ORM tool (or if it makes sense a
 
 A WASM host might be a Xamarin.Forms WebView that loads the Wasm site and allows the more permanent access to a Sqlite storage.
 
-Also if working Ooui.Wasm Xamarin.Forms, you should be able to switch to Xamarin.Forms for Desktop / Mobile in a seemless way using the same ORM.
+Also if working Ooui.Wasm Xamarin.Forms, you should be able to switch to Xamarin.Forms for Desktop / Mobile in a seemless way using the same ORM. 
 
 ## Join if you want.. 
 
 This is just getting started, it might be just a simple tool, it might not endup anywhere or it might be just an inspirational discussion.
+Send me a message in gitter @juanfranblanco.
 
 ## Local Storage access
 
